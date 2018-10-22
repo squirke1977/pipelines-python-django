@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/stephenquirke0935/test_Mac_Project/_apis/build/status/squirke1977.pipelines-python-django)](https://dev.azure.com/stephenquirke0935/test_Mac_Project/_build/latest?definitionId=1)
 
+I am a minor update.
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
